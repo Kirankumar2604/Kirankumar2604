@@ -17,33 +17,6 @@ My primary areas of interest include:
 
 ---
 
-## Current Work
-
-* Designing and implementing end-to-end ML pipelines
-* Learning production-grade deployment practices
-* Exploring Generative AI applications beyond basic API usage
-
----
-
-## Technical Stack
-
-**Programming Languages**
-C, C++, Python, Java
-
-**AI/ML**
-Scikit-learn, TensorFlow (learning), PyTorch (learning)
-
-**MLOps & Tools**
-Git, GitHub, Docker (learning), Postman
-
-**Development**
-HTML, CSS, JavaScript, React (learning)
-
-**Other Tools**
-Blender, Android Studio
-
----
-
 ## Selected Projects
 
 ### Portfolio Website
@@ -72,17 +45,3 @@ Designed and deployed a personal portfolio with a focus on clean UI and accessib
 * Building production-level ML projects
 * Understanding system design for AI applications
 * Strengthening fundamentals in algorithms and data structures
-
----
-
-## Contact
-
-Portfolio: https://kiranfolio.netlify.app
-LinkedIn: https://www.linkedin.com/in/kiran-kumar-g-professional
-Email: kirankumargajendran@gmail.com
-
----
-
-## Note
-
-This profile represents ongoing work. The goal is not to accumulate projects, but to build systems that are technically sound and practically useful.
