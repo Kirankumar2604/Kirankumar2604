@@ -34,12 +34,6 @@ Designed and deployed a personal portfolio with a focus on clean UI and accessib
 
 ---
 
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirankumar2604\&hide_border=true)
-
----
-
 ## Focus Areas (2026)
 
 * Building production-level ML projects
