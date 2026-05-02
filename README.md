@@ -30,8 +30,6 @@ Designed and deployed a personal portfolio with a focus on clean UI and accessib
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirankumar2604&show_icons=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirankumar2604&layout=compact" />
-
 ---
 
 ## Focus Areas (2026)
