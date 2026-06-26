@@ -200,6 +200,6 @@ Python • Machine Learning • Data Science
 | Email     | [kirankumargajendran@gmail.com](mailto:kirankumargajendran@gmail.com) |
 | LinkedIn  | https://www.linkedin.com/in/kiran-kumar-g-professional/               |
 | GitHub    | https://github.com/Kirankumar2604                                     |
-| Portfolio | https://kiranfolio.netlify.app                                        |
+| Portfolio | https://kiranfolio.tech/                                              |
 
 </div>
